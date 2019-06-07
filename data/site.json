@@ -1,26 +1,26 @@
 {
   "sitedata": [
     {
-      "sitename": "Fly My Community",
+      "sitename": "The Brian Boals Team",
       "icon": "/img/favicon.png",
       "logo": "/img/logofly.png",
       "logoname": "Fly My Community",
-      "metadesc": "Trusted By Fine Real Estate Professionals",
+      "metadesc": "Your Trusted Real Estate Professionals",
       "metauthor": "Fly My Community",
-      "metakeyword": "cms",
+      "metakeyword": "www.brianboals.com",
       "footer": "All rights reserved! 2018 WebriQ Pte Ltd"
     }
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
+      "email": "brianboals@gmail.com",
       "logo": "/img/logofly.png",
-      "linkcont": "032000333555",
-      "videoid": "255662356",
+      "linkcont": "719-459-9955",
+      "videoid": "234055605",
       "sliderbg": "/img/slider_bg.jpg",
       "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
-      "slidertext1": "Crystal Park",
-      "slidertext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
+      "slidertext1": "Pine CreekSituated at the north end of Colorado Springs this high end neighborhood boasts outstanding views and a gorgeous golf course.",
+      "slidertext2": "Pine Creek",
       "poplink": "//vimeo.com/250014579"
     }
   ],
