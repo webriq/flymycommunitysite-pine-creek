@@ -3,7 +3,7 @@
     {
       "sitename": "The Brian Boals Team",
       "icon": "/img/favicon.png",
-      "logo": "/img/logofly.png",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1559916396/wlorj8qmsn5yaazbh0nn.png",
       "logoname": "Fly My Community",
       "metadesc": "Your Trusted Real Estate Professionals",
       "metauthor": "Fly My Community",
@@ -19,8 +19,8 @@
       "videoid": "234055605",
       "sliderbg": "/img/slider_bg.jpg",
       "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
-      "slidertext1": "Pine CreekSituated at the north end of Colorado Springs this high end neighborhood boasts outstanding views and a gorgeous golf course.",
-      "slidertext2": "Pine Creek",
+      "slidertext1": "Pine Creek",
+      "slidertext2": "Pine Creek is situated at the north end of Colorado Springs this high end neighborhood boasts outstanding views and a gorgeous golf course.",
       "poplink": "//vimeo.com/250014579"
     }
   ],
